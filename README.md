@@ -8,7 +8,7 @@
 
 <div align="center">
     
-# Hi there, I'm Nicolas Borghese 👋
+## Hi there, I'm Nicolas Borghese 👋
 
 </div>
 
