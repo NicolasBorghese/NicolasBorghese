@@ -1,7 +1,7 @@
 <div align="center">
     <picture>
         <a href="https://github.com/NicolasBorghese" target="_blank">
-            <img src="https://raw.githubusercontent.com/NicolasBorghese/RepositorioDeImagenes/main/perfil_github/banner_web_developer_2Resized.gif" height="200"/>
+            <img src="https://raw.githubusercontent.com/NicolasBorghese/RepositorioDeImagenes/main/perfil_github/banner_web_developer_2Resized.gif" width="100%"/>
         </a>
     </picture>
 </div>
