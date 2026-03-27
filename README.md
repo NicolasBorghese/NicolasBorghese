@@ -54,7 +54,7 @@ I'm a **Full Stack Developer** from Neuquén, Argentina, with experience buildin
 
 ## 🚀 Featured Project
 
-<a href="https://www.proyectocprint.com.ar/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/NicolasBorghese/RepositorioDeImagenes/main/casino_print/logo/logo_1_1_0_1_casino_print.gif" alt="Casino Print Logo"/></a>
+<div align="center"><a href="https://www.proyectocprint.com.ar/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/NicolasBorghese/RepositorioDeImagenes/main/casino_print/logo/logo_1_1_0_1_casino_print.gif" width="25%" alt="Casino Print Logo"/></a></div>
 
 **[Casino Print](https://www.proyectocprint.com.ar/)** — Degree final project at UNCOMA. Web casino simulation with 3 games (roulette, slots & blackjack), real-time leaderboard, and Mercado Pago integration. I built all three games using Phaser and created the pixel art assets with Aseprite.
 
