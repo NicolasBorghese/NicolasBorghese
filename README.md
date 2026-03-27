@@ -12,7 +12,7 @@
 
 </div>
 
-I'm a **Full Stack Developer** from Neuquén, Argentina, with experience building complete applications from start to finish — mobile apps with React Native, robust backends with Node.js and Laravel, and interactive frontends with React. I also work on web game development with Phaser and create custom pixel art assets in Aseprite.
+I'm a **Full Stack Developer** from Neuquén, Argentina, with experience building complete applications from start to finish — mobile apps with React Native, robust backends with Node.js and Laravel, and interactive frontends with React. I'm also personally interested in web game development with Phaser and pixel art with Aseprite as hobbies.
 
 ## 🛠️ Skills
 
@@ -53,6 +53,8 @@ I'm a **Full Stack Developer** from Neuquén, Argentina, with experience buildin
 </tr></table>
 
 ## 🚀 Featured Project
+
+<a href="https://www.proyectocprint.com.ar/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/NicolasBorghese/RepositorioDeImagenes/main/casino_print/logo/logo_1_1_0_1_casino_print.gif" alt="Casino Print Logo"/></a>
 
 **[Casino Print](https://www.proyectocprint.com.ar/)** — Degree final project at UNCOMA. Web casino simulation with 3 games (roulette, slots & blackjack), real-time leaderboard, and Mercado Pago integration. I built all three games using Phaser and created the pixel art assets with Aseprite.
 
