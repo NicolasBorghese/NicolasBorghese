@@ -77,11 +77,4 @@ I'm a **Full Stack Developer** from Neuquén, Argentina, with experience buildin
 - LinkedIn: [Nicolas Borghese](https://linkedin.com/in/nicolas-borghese)
 - Portfolio: [nicolasborghese.dev](https://www.nicolasborghese.dev/)
 
-## 📊 GitHub Stats
-
-<div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=NicolasBorghese&show_icons=true&theme=radical" height="150" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBorghese&show_icons=true&theme=radical&layout=compact" height="150" />
-</div>
-
 ---
